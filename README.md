@@ -1,5 +1,7 @@
 # Project Phase 4
 
+Collaborators: Anushka Jain, Nandini Maroo
+
 The following queries have been implemented:
 
 ### 1. Add new person
